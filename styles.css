@@ -1,0 +1,26 @@
+body {
+    background-color: #D24EE8;
+    font-family: Manjari, sans-serif;
+}
+
+nav .navbar-brand, .nav-link {
+    color: white;
+}
+
+.nav-link {
+    margin-left: 30px;
+    font-size: 23px;
+}
+
+.nav-link:hover {
+    color: rgb(219, 219, 219);
+}
+
+.navbar-brand {
+    font-size: 35px;
+    font-family: Pacifico, cursive;
+}
+
+.navbar {
+    padding: 40px 60px;
+}
